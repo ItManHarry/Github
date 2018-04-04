@@ -84,3 +84,35 @@
 	```
 		git remote add origin /c/wd/test.git
 	```
+- Git协议
+
+	- 克隆远程仓库
+
+	```
+		git clone git://server_ip/test.git
+	```
+
+	- 添加远程仓库链接
+
+	```
+		git remote add origin git://server_ip/test.git
+	```
+- HTTP协议
+
+	-克隆远程仓库
+
+	```
+		git clone https://github.com/username/repositoryname
+	```
+
+	- 添加远程仓库链接
+
+	```
+		git remote add origin https://github.com/username/repositoryname
+	```
+
+- SSH协议
+
+- 
+
+	
