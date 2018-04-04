@@ -62,3 +62,18 @@
 		git push origin master
 	```
 
+## Git协议
+
+- 本地协议
+
+	 ```	 	
+	 	git clone /c/md/test.git
+		
+	 ```
+	 
+	 ```
+	 	git clone file:///c/wd/test.git
+	 ```
+	 
+	 
+	 
