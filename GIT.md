@@ -99,7 +99,7 @@
 	```
 - HTTP协议
 
-	-克隆远程仓库
+	- 克隆远程仓库
 
 	```
 		git clone https://github.com/username/repositoryname
