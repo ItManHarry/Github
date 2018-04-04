@@ -113,6 +113,27 @@
 
 - SSH协议
 
-- 
+	- 克隆远程仓库，一般写成简短的命令
+	
+	```
+		git clone ssh://git@github.com/username/repositoryname
+		git clone git@github.com/username/repositoryname
+	```
+	
+	- 添加远程仓库链接
+	
+	```
+		git remote add origin git@github.com/username/repositoryname
+	```
+
+	- 生成RSA秘钥对
+	
+	```
+		ssh-Keygen -t rsa -C "email address"
+	```
+	
+	- 在Github网站上添加公钥
+	
+	- 使用SSH协议，克隆仓库或者添加远程仓库
 
 	
