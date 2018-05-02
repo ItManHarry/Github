@@ -134,13 +134,13 @@
 	
 	- 在Github网站上添加公钥
 	
-		1 找到id_rsa.pub文件，使用nodepad++打开
+		1. 找到id_rsa.pub文件，使用nodepad++打开
 	    
-	    	2 复制文件里的内容
+	 	2. 复制文件里的内容
 	    
-	    	3 登录Github，找到Settings下的SSH and GPG keys，点击新增
+		3. 登录Github，找到Settings下的SSH and GPG keys，点击新增
 	    
-		4 黏贴复制的key，保存即可
+		4. 黏贴复制的key，保存即可
 	
 	- 使用SSH协议，克隆仓库或者添加远程仓库
 
